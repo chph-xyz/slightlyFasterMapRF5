@@ -1,7 +1,3 @@
-this mod is WYSIWYG (what you see is what you get)
-
-(please credit me (chph-xyz) if you fork and find a better implementation)
-
 this mod is used with MelonLoader (v0.6.6)
 
 what does this mod do?
@@ -15,3 +11,5 @@ instruction:
 - (or wherever your Rune Factory 5 Mods folder is)
 
 ---WIP---
+
+please credit me (chph-xyz) if you fork and find a better implementation
