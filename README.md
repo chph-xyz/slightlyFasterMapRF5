@@ -1,5 +1,5 @@
 this mod is WYSIWYG (what you see is what you get)
-(please credit me if you fork and find a better implementation)
+(please credit me (chph-xyz) if you fork and find a better implementation)
 
 this mod is meant to be used with MelonLoader
 
