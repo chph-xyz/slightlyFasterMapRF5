@@ -1,4 +1,4 @@
-#(this is absolutely scuffed, use at your own risk)
+# (this is absolutely scuffed, use at your own risk)
 
 this mod is used with MelonLoader (v0.6.6)
 
