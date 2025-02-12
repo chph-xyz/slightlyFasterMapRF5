@@ -10,7 +10,7 @@ what does this mod do?
 
 instruction:
 - place rf_logging.dll into:
-steamapps\common\Rune Factory 5\Mods
-(or wherever your Rune Factory 5 Mods folder is)
+- steamapps\common\Rune Factory 5\Mods
+- (or wherever your Rune Factory 5 Mods folder is)
 
 ---WIP---
