@@ -11,4 +11,15 @@ instruction:
 
 ---WIP---
 
+<table>
+  <tr>
+    <td>demoVideo1</td>
+    <td>demoVideo2</td>
+  </tr>
+  <tr>
+    <td>Vanilla map navigations</td>
+    <td>Modded map navigations</td>
+  </tr>
+</table>
+
 please credit me (chph-xyz) if you fork and find a better implementation
