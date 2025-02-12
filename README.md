@@ -6,8 +6,7 @@ what does this mod do?
 - while navigating the warp menu, there is a 0.5s delay before hitting confirm. this mod reduces it to 0 seconds.
 
 instruction:
-- place rf_logging.dll into:
-- steamapps\common\Rune Factory 5\Mods
+- place rf_logging.dll into: steamapps\common\Rune Factory 5\Mods
 - (or wherever your Rune Factory 5 Mods folder is)
 
 ---WIP---
