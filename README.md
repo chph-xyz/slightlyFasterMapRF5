@@ -15,8 +15,8 @@ instruction:
 
 <table>
   <tr>
-    <td>demoVideo1</td>
-    <td>demoVideo2</td>
+    <td><video src="(https://github.com/chph-xyz/slightlyFasterMapRF5/blob/17b6d231884fee06e5b65149123a44a5e81f2f5f/vanilla.gif)" width="300" controls></video></td>
+    <td><video src="(https://github.com/chph-xyz/slightlyFasterMapRF5/blob/17b6d231884fee06e5b65149123a44a5e81f2f5f/modded.gif)" width="300" controls></video></td>
   </tr>
   <tr>
     <td>Vanilla map navigations</td>
