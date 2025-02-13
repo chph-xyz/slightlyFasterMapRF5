@@ -15,8 +15,8 @@ instruction:
 
 <table>
   <tr>
-    <td><video src="https://i.imgur.com/Q83p4YR.mp4" width="300" controls></video></td>
-    <td><video src="https://i.imgur.com/OGsF9Cu.mp4" width="300" controls></video></td>
+    <td><video src="https://github.com/user-attachments/assets/21f72f3b-d49c-4324-9ef9-09688e0e4a42" width="300" controls></video></td>
+    <td><video src="https://github.com/user-attachments/assets/589a94a6-3b62-4f6c-a5a2-356315593f50" width="300" controls></video></td>
   </tr>
   <tr>
     <td>Vanilla map navigations</td>
